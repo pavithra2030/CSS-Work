@@ -1,0 +1,63 @@
+body{
+    background-image: linear-gradient(to right,rgb(121, 21, 215),rgb(218, 75, 99));
+}
+div{
+    border-style: solid;
+    text-align: center;
+    line-height: 50px;
+    background-color: white;
+    width: 20%;
+    margin-left:550px;
+    margin-top: 100px;
+    padding: 20px;
+
+    
+}
+input[type="text"]{
+     border-top: none;
+     border-right: none;
+     border-left:none;
+     width: 250px;
+     border-color: rgb(162, 57, 74);
+
+}
+input[type="password"]{
+    border-top: none;
+    border-right: none;
+    border-left:none;
+    width:250px;
+    border-color: rgb(162, 57, 74);
+}
+button{
+    width:250px;
+    height:40px;
+    border-radius: 3px;
+    background-color: blueviolet;
+    color:white;
+
+}
+h1{
+    text-align:left;
+    
+}
+#continue{
+    background-color:rgb(218, 75, 99);
+    text-align: center;
+
+}
+#twitter{
+    background-color:rgb(12, 176, 201);
+    font-style: normal;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+#facebook{
+    background-color: rgb(43, 43, 218);
+    font-style: normal;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+img{
+    height: 20px;
+}
+/* .img{
+    margin-right: 20%;
+} */

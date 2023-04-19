@@ -1,0 +1,46 @@
+
+form{
+    border: 2px solid black;
+    border-radius: 10px;
+ margin-top: 190px;
+ max-width: 500px;
+ margin-left: 390px;
+ min-height: 150px;
+ padding-top: 50px;
+ line-height: 60px;
+
+}
+table{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+input[type="text"]{
+    margin-left: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 180px;
+
+}
+button{
+    width: 50%;
+    font-size: 20px;
+
+}
+img{
+    height: 20px;
+}
+.img{
+    margin-right: 20%;
+}
+.fa-home{
+    font-size: 60px;
+    color:white;
+    background-color: blue;
+    padding: 40px;
+    margin-left: 50px;
+}
+.fa-search{
+    margin-left: 50px;
+}

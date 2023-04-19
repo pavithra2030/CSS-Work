@@ -1,0 +1,31 @@
+table{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(15, 45, 46);
+    color: aliceblue;
+    width: 30%;
+    line-height: 0%;
+    height: 150px;
+    box-sizing: border-box;
+    
+
+}
+form{
+    width: 30%;
+    height:200%;
+    
+}
+button{
+    
+    width:320px;
+    color:white;
+    background-color: black;
+}
+body{
+    background-image: linear-gradient(to right,rgba(30, 63, 181, 0.966),rgb(17, 97, 53))
+
+}
+input{
+    height: 30px;
+}
+
